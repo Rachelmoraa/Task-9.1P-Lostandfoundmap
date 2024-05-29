@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lost &amp; Found APP</string>
+
+<string name="create_new_advert">Create New Advert</string>
+<string name="view_lost_and_found_items">View Lost and Found Items</string>
+<string name="save">Save</string>
+</resources>
